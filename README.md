@@ -37,4 +37,5 @@ dependecias encontradas en: https://pub.dev/
 
 link de la base de datos se que utlizo: https://firebase.google.com/?hl=es-419&gclid=Cj0KCQiA14WdBhD8ARIsANao07jdSHczzAjD3V--u4ooumbMrSMZyGCiMoCNvRzA8MyCzUhSZ0nlNOEaAnNBEALw_wcB&gclsrc=aw.ds
 
-este proyecto cumple con todos los critrios que el instructor pidio y proximamente se le haran modificacion mas para la superacion del mismo creador 
+este proyecto cumple con todos los critrios que el instructor solicito.
+
